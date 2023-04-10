@@ -2,12 +2,7 @@ package com.honey.entity.extend;
 
 import java.util.Date;
 
-/**
- * @description
- * @author: chenPeng
- * @date: 2015/9/1 14:20
- * Copyright © 2015/9/1 Shanghai Raxtone Software Co.,Ltd Allright Reserved
- */
+
 public class ArticleVo {
 
     private Integer id; //标题ID
